@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Orange HRM Demo" parallel="false">
+    <test name="admin login">
+        <classes>
+            <class name="Plugin_Test_Runner"/> <!-- First test -->
+        </classes>
+    </test>
+
+</suite>
